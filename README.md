@@ -16,9 +16,9 @@ Couple of things about me:
 
 Thanks for visiting my profile page.
 
-[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=sadrohan&theme=prussian&show_icons=true&count_private=true&hide_border=true)](https://github.com/sadrohan)
-[![Rohan's commit streak](https://github-readme-streak-stats.herokuapp.com/?user=sadrohan&theme=prussian&hide_border=true)](https://github.com/sadrohan)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadrohan&theme=prussian&layout=compact&hide_border=true)](https://github.com/sadrohan)
+[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-indipe&theme=prussian&show_icons=true&count_private=true&hide_border=true)](https://github.com/rohan-indipe)
+[![Rohan's commit streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-indipe&theme=prussian&hide_border=true)](https://github.com/rohan-indipe)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-indipe&theme=prussian&layout=compact&hide_border=true)](https://github.com/rohan-indipe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cruvdev&theme=prussian&repo=ringtone_player&hide_border=true)](https://github.com/cruvdev/ringtone_player) -->
 
 ### StackOverflow Stats:
@@ -35,14 +35,14 @@ Thanks for visiting my profile page.
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <p align = "center">
-  <a href="https://github.com/sadrohan">
-    <img src="https://badges.pufler.dev/years/sadrohan?color=black&logo=github">
+  <a href="https://github.com/rohan-indipe">
+    <img src="https://badges.pufler.dev/years/rohan-indipe?color=black&logo=github">
   </a>
-  <a href="https://github.com/sadrohan?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/sadrohan?color=black&logo=github">
+  <a href="https://github.com/rohan-indipe?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/rohan-indipe?color=black&logo=github">
   </a>
-  <a href="https://github.com/sadrohan">
-    <img src="https://badges.pufler.dev/visits/sadrohan/sadrohan?color=black&logo=github">
+  <a href="https://github.com/rohan-indipe">
+    <img src="https://badges.pufler.dev/visits/rohan-indipe/rohan-indipe?color=black&logo=github">
   </a>
 </p>
  -->
